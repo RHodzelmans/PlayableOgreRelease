@@ -6,8 +6,8 @@
 			<children>
 				<!-- Famous Ogre Male -->
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" /> <!-- Default -->
-					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" /> <!-- Default -->
+					<attribute id="BaseVisual" type="FixedString" value="701369d2-8996-53fd-40b2-a37b03145b0b" />
+					<attribute id="BodySetVisual" type="FixedString" value="1d8bb451-8eb8-b88f-fdba-98be05ce5890" />
 					<attribute id="ID" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d55333333" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
 					<attribute id="Name" type="LSString" value="Ogre_Male_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
@@ -41,8 +41,8 @@
 				</node>
 				<!-- Famous Ogre Female -->
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" /> <!-- Default -->
-					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" /> <!-- Default -->
+					<attribute id="BaseVisual" type="FixedString" value="59fb63f0-0d38-3cff-e368-efd05ce1d3d4" />
+					<attribute id="BodySetVisual" type="FixedString" value="10385214-a9d5-28bc-2b88-11e65caa72a8" />
 					<attribute id="ID" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d55333333" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Ogre_Female_Player" />
@@ -64,8 +64,8 @@
 				</node>
 				<!-- Basic Ogre Male -->
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" /> <!-- Default -->
-					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" /> <!-- Default -->
+					<attribute id="BaseVisual" type="FixedString" value="701369d2-8996-53fd-40b2-a37b03145b0b" />
+					<attribute id="BodySetVisual" type="FixedString" value="1d8bb451-8eb8-b88f-fdba-98be05ce5890" />
 					<attribute id="ID" type="FixedString" value="6ea37d77-3310-a586-2e37-33a78d111111" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Ogre_Basic_Male_Player" />
@@ -103,8 +103,8 @@
 				</node>
 				<!-- Basic Ogre Female -->
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" /> <!-- Default -->
-					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" /> <!-- Default -->
+					<attribute id="BaseVisual" type="FixedString" value="59fb63f0-0d38-3cff-e368-efd05ce1d3d4" />
+					<attribute id="BodySetVisual" type="FixedString" value="10385214-a9d5-28bc-2b88-11e65caa72a8" />
 					<attribute id="ID" type="FixedString" value="4ac5b5d8-6e26-e59b-42e3-41ed51000000" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Ogre_Basic_Female_Player" />
