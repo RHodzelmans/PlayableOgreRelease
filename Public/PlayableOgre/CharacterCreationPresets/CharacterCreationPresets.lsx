@@ -11,7 +11,7 @@
                     <attribute id="CloseUpA" type="LSString" value="HUM_F_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="HUM_F_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_F_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="f4c86fa1-82da-4769-9773-598ffa08d111"/> <!-- Link to Races UUID -->
+                    <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5000000"/> <!-- Link to Races UUID -->
 					<attribute id="SubRaceUUID" type="guid" value="a263d3f9-26d5-43ed-8d20-08968e111111"/> <!-- Male Basic Ogres -->
                     <attribute id="RootTemplate" type="guid" value="e4709442-3cbc-4ee2-8c86-c8435a000000"/> <!-- Roottemplate.FileName - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
                     <attribute id="UUID" type="guid" value="f7d4f2f5-7162-4800-bf30-34b20e000000"/>
@@ -24,7 +24,7 @@
                     <attribute id="CloseUpA" type="LSString" value="HUM_M_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="HUM_M_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_M_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="f4c86fa1-82da-4769-9773-598ffa08d111"/> <!-- Link to Races UUID -->
+                    <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5000000"/> <!-- Link to Races UUID -->
 					<attribute id="SubRaceUUID" type="guid" value="a263d3f9-26d5-43ed-8d20-08968e111111"/> <!-- Female Basic Ogres -->
                     <attribute id="RootTemplate" type="guid" value="cfca74d8-a704-4e8e-89f0-29fb36111111"/> <!-- Roottemplate.FileName - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
                     <attribute id="UUID" type="guid" value="c745722f-4b5d-472b-b3d7-006b93111111"/>
@@ -37,7 +37,7 @@
                     <attribute id="CloseUpA" type="LSString" value="HUM_F_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="HUM_F_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_F_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="f4c86fa1-82da-4769-9773-598ffa08d111"/> <!-- Link to Races UUID -->
+                    <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5000000"/> <!-- Link to Races UUID -->
 					<attribute id="SubRaceUUID" type="guid" value="9d3a02d5-27e9-4847-9a80-9011e9222222"/> <!-- Female Famous Ogres -->
                     <attribute id="RootTemplate" type="guid" value="abfa9efc-3c53-407b-ab42-2cb281222222"/> <!-- Roottemplate.FileName - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
                     <attribute id="UUID" type="guid" value="a1f1e685-5dbd-4f9d-be76-94604f222222"/>
@@ -50,7 +50,7 @@
                     <attribute id="CloseUpA" type="LSString" value="HUM_M_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="HUM_M_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_M_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="f4c86fa1-82da-4769-9773-598ffa08d111"/> <!-- Link to Races UUID -->
+                    <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5000000"/> <!-- Link to Races UUID -->
 					<attribute id="SubRaceUUID" type="guid" value="9d3a02d5-27e9-4847-9a80-9011e9222222"/> <!-- Male Famous Ogres -->
                     <attribute id="RootTemplate" type="guid" value="ce621311-00b1-4b85-9c48-334f9b333333"/> <!-- Roottemplate.FileName - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
                     <attribute id="UUID" type="guid" value="f9662231-a231-485e-bc9e-69fe89333333"/>
