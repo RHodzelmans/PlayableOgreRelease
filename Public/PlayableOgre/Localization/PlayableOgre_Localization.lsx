@@ -5,60 +5,60 @@
 		<node id="root">
 			<children>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="22" value="POgre_Base_Race_Name" />
-					<attribute id="Stub" type="19" value="True" />
-					<attribute id="Content" type="28" handle="51d33cc7-8396-4b8d-8bcc-39a40e400000" version="1" />
-					<attribute id="ExtraData" type="23" value="" />
-					<attribute id="Speaker" type="22" value="" />
+					<attribute id="UUID" type="FixedString" value="POgre_Base_Race_Name" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="51d33cc7-8396-4b8d-8bcc-39a40e400000" version="1" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="22" value="POgre_Base_Race_Desc" />
-					<attribute id="Stub" type="19" value="True" />
-					<attribute id="Content" type="28" handle="3803109b-de33-4e08-b6c9-5132a7e00000" version="1" />
-					<attribute id="ExtraData" type="23" value="" />
-					<attribute id="Speaker" type="22" value="" />
+					<attribute id="UUID" type="FixedString" value="POgre_Base_Race_Desc" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="3803109b-de33-4e08-b6c9-5132a7e00000" version="1" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="22" value="POgre_Base_Race_Description" />
-					<attribute id="Stub" type="19" value="True" />
-					<attribute id="Content" type="28" handle="51d33cc7-8396-4b8d-8bcc-39a40e400000" version="1" />
-					<attribute id="ExtraData" type="23" value="" />
-					<attribute id="Speaker" type="22" value="" />
+					<attribute id="UUID" type="FixedString" value="POgre_Base_Race_Description" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="3803109b-de33-4e08-b6c9-5132a7e00000" version="1" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="22" value="POgre_Basic_Race_Name" />
-					<attribute id="Stub" type="19" value="True" />
-					<attribute id="Content" type="28" handle="416a1d75-5643-4340-bcf5-424e0fb11111" version="1" />
-					<attribute id="ExtraData" type="23" value="" />
-					<attribute id="Speaker" type="22" value="" />
+					<attribute id="UUID" type="FixedString" value="POgre_Basic_Race_Name" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="416a1d75-5643-4340-bcf5-424e0fb11111" version="1" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="22" value="POgre_Famous_Race_Name" />
-					<attribute id="Stub" type="19" value="True" />
-					<attribute id="Content" type="28" handle="ba5aa7fb-ed4b-4d40-8698-b2e653322222" version="1" />
-					<attribute id="ExtraData" type="23" value="" />
-					<attribute id="Speaker" type="22" value="" />
+					<attribute id="UUID" type="FixedString" value="POgre_Famous_Race_Name" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="ba5aa7fb-ed4b-4d40-8698-b2e653322222" version="1" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="22" value="POgre_Base_Race_Prog_Desc" />
-					<attribute id="Stub" type="19" value="True" />
-					<attribute id="Content" type="28" handle="6879cf5c-f315-4a93-bed6-12fd87000000" version="1" />
-					<attribute id="ExtraData" type="23" value="" />
-					<attribute id="Speaker" type="22" value="" />
+					<attribute id="UUID" type="FixedString" value="POgre_Base_Race_Prog_Desc" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="6879cf5c-f315-4a93-bed6-12fd87000000" version="1" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="22" value="POgre_Basic_Race_Prog_Desc" />
-					<attribute id="Stub" type="19" value="True" />
-					<attribute id="Content" type="28" handle="a7a4dffb-6c99-4571-b19a-f81bb3111111" version="1" />
-					<attribute id="ExtraData" type="23" value="" />
-					<attribute id="Speaker" type="22" value="" />
+					<attribute id="UUID" type="FixedString" value="POgre_Basic_Race_Prog_Desc" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="a7a4dffb-6c99-4571-b19a-f81bb3111111" version="1" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="22" value="POgre_Famous_Race_Prog_Desc" />
-					<attribute id="Stub" type="19" value="True" />
-					<attribute id="Content" type="28" handle="7c120a0b-a0c2-441e-a8a1-279c30222222" version="1" />
-					<attribute id="ExtraData" type="23" value="" />
-					<attribute id="Speaker" type="22" value="" />
+					<attribute id="UUID" type="FixedString" value="POgre_Famous_Race_Prog_Desc" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="7c120a0b-a0c2-441e-a8a1-279c30222222" version="1" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
 				</node>
 			</children>
 		</node>

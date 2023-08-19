@@ -22,6 +22,7 @@
 						<node id="GameMaster" />
 						<node id="LocomotionParams" />
 						<node id="Tags">
+							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
 								</node>													
