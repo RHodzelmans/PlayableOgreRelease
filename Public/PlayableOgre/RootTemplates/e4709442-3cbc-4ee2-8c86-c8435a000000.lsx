@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<!-- Basic Female Ogre -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="4ac5b5d8-6e26-e59b-42e3-41ed51000000" /> <!--  \PlayableOgre\Public\PlayableOgre\Content\[PAK]_CharacterVisuals\_merged.lsx -->
+					<attribute id="Equipment" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="370ffacc-6ed7-9221-6605-fb9770f08607-EQP_Ogre_Club_(Icon_Ogre)" /> <!-- Icon in Shared\Public\Shared\RootTemplates\_merged.lsx -->
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e4709442-3cbc-4ee2-8c86-c8435a000000" /> <!-- Filename - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
+					<attribute id="Name" type="LSString" value="Ogre_Basic_Female_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="535a319c-d578-4dd4-bfb2-4f7369ba6d67" /> <!-- Female Ogres -->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroOgreFemale" /> <!-- Stats\Generated\Data\_Essential -->
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741871" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+						<node id="Tags">
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
+								</node>													
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="542b58f0-42ad-4157-8ea2-43270e4e187b" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

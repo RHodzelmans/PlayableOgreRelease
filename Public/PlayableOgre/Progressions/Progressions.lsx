@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+				<!-- Ogre Race Stats -->
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength, 4);Ability(Dexterity, 1),Ability(Constitution, 3);Ability(Intelligence, -3),Ability(Wisdom, -2);Ability(Charisma, -2)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Ogre"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Darkvision"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="413b0749-12f7-494a-a4a3-bbf63000000"/>
+                    <attribute id="UUID" type="guid" value="4557ea74-7d63-4621-9198-bbf63000000"/>
+                </node>
+				<!-- Ogre Basic Subrace Stats -->
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="BasicOgre"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="ff1c6613-fcc0-411f-8825-0eb32b111111"/> <!-- Races - Progressions - ProgressionsDescriptions -->
+                    <attribute id="UUID" type="guid" value="4a572189-810e-4af6-8035-0eb32b111111"/>
+                </node>
+				<!-- Ogre Famous Subrace Stats -->
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="FamousOgre"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="80b2552d-a325-424a-9581-c45d22222222"/> <!-- Races - Progressions - ProgressionsDescriptions -->
+                    <attribute id="UUID" type="guid" value="526226b2-c9b2-4428-95a4-c45d22222222"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

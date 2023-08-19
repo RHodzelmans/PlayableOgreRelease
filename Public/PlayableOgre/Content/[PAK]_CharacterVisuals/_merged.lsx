@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+				<!-- Famous Ogre Male -->
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" /> <!-- Default -->
+					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" /> <!-- Default -->
+					<attribute id="ID" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d55333333" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
+					<attribute id="Name" type="LSString" value="Ogre_Male_Player" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
+					<children>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="81a61023-8185-c4a1-e5c5-cd55822f59f3" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="f27d4807-1aaf-e265-8ba5-58d535bd58b2" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Headwear" />
+							<attribute id="VisualResource" type="FixedString" value="ed263df6-079f-30a6-bd66-8b23f1b0bcd9" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="69aaee3a-adb9-d635-60d3-612605e65a3c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Gloves" />
+							<attribute id="VisualResource" type="FixedString" value="8a6be419-7343-1a75-c9f3-4b09fb0f30bd" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Footwear" />
+							<attribute id="VisualResource" type="FixedString" value="bf124dff-ac32-c2c2-2894-bddf48ebf4dd" />
+						</node>
+					</children>
+				</node>
+				<!-- Famous Ogre Female -->
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" /> <!-- Default -->
+					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" /> <!-- Default -->
+					<attribute id="ID" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d55333333" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Ogre_Female_Player" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
+					<children>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="6720984d-06fa-b7ce-66f7-62a3c090400e" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="5c5a4379-fbb3-a15b-4f34-862ec74ccadd" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="44d8b1c4-a1b4-cb01-b3f1-71e482a1a2a4" />
+						</node>
+					</children>
+				</node>
+				<!-- Basic Ogre Male -->
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" /> <!-- Default -->
+					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" /> <!-- Default -->
+					<attribute id="ID" type="FixedString" value="6ea37d77-3310-a586-2e37-33a78d111111" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Ogre_Basic_Male_Player" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
+					<children>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="81a61023-8185-c4a1-e5c5-cd55822f59f3" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="328ac5b2-ea42-74da-ffd0-7fbcb39f47e3" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="69aaee3a-adb9-d635-60d3-612605e65a3c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Headwear" />
+							<attribute id="VisualResource" type="FixedString" value="235cb528-edf7-49ca-4fa0-c49ea807fc64" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Gloves" />
+							<attribute id="VisualResource" type="FixedString" value="7f340036-5d1f-dcb3-5fed-78a062748714" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Gloves" />
+							<attribute id="VisualResource" type="FixedString" value="800f8721-6aa5-ac22-fc17-7b82f6d5786b" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Footwear" />
+							<attribute id="VisualResource" type="FixedString" value="bf124dff-ac32-c2c2-2894-bddf48ebf4dd" />
+						</node>
+					</children>
+				</node>
+				<!-- Basic Ogre Female -->
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" /> <!-- Default -->
+					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" /> <!-- Default -->
+					<attribute id="ID" type="FixedString" value="4ac5b5d8-6e26-e59b-42e3-41ed51000000" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Ogre_Basic_Female_Player" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
+					<children>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="6720984d-06fa-b7ce-66f7-62a3c090400e" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="5c5a4379-fbb3-a15b-4f34-862ec74ccadd" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="44d8b1c4-a1b4-cb01-b3f1-71e482a1a2a4" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

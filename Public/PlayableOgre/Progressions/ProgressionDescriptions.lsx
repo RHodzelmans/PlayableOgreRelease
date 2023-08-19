@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="POgre_Base_Race_Prog_Desc"/>
+                    <attribute id="DisplayName" type="FixedString" value="POgre_Base_Race_Name"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="413b0749-12f7-494a-a4a3-bbf63000000"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="Ogre"/>
+                    <attribute id="UUID" type="guid" value="c5108225-ac3a-4373-9315-3c45c600000"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="POgre_Basic_Race_Prog_Desc"/>
+                    <attribute id="DisplayName" type="FixedString" value="POgre_Basic_Race_Name"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="ff1c6613-fcc0-411f-8825-0eb32b111111"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="BasicOgre"/>
+                    <attribute id="UUID" type="guid" value="9969ad93-7122-4be6-b8fa-76d73a111111"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="POgre_Famous_Race_Prog_Desc"/>
+                    <attribute id="DisplayName" type="FixedString" value="POgre_Famous_Race_Name"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="80b2552d-a325-424a-9581-c45d22222222"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="FamousOgre"/>
+                    <attribute id="UUID" type="guid" value="5bbbeccb-e839-465b-bedc-702009222222"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

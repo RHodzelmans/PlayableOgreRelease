@@ -1,0 +1,11 @@
+new entry "HeroOgreMale"
+type "Character"
+using "_Hero"
+data "Weight" "30000"
+data "Progressions" "413b0749-12f7-494a-a4a3-bbf63000000"
+
+new entry "HeroOgreFemale"
+type "Character"
+using "_Hero"
+data "Weight" "30000"
+data "Progressions" "413b0749-12f7-494a-a4a3-bbf63000000"
