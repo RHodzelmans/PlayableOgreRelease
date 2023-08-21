@@ -8,13 +8,13 @@
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
 					<!------------------ Ogre Base Race 	       ------------------->
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-                    <attribute id="Description" type="TranslatedString" handle="3803109b-de33-4e08-b6c9-5132a7eb8b6a"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="51d33cc7-8396-4b8d-8bcc-39a40e4fb0cf"/>
+                    <attribute id="Description" type="TranslatedString" handle="3803109b-de33-4e08-b6c9-abcdefeb8b6a"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="51d33cc7-8396-4b8d-8bcc-abcdef4fb0cf"/>
                     <attribute id="Name" type="FixedString" value="Ogre"/>
                     <attribute id="ParentGuid" type="guid" value="02e5c59e-80e7-4176-a289-1d08699583f5"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="413b0749-12f7-494a-a4a3-bbf630d09e48"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="413b0749-12f7-494a-a4a3-abcdefd09e48"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value=""/>
-                    <attribute id="UUID" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5dfb50c"/>
+                    <attribute id="UUID" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="146a89e7-802f-4926-bc21-4a41c2478502"/>
@@ -26,13 +26,13 @@
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
 					<!------------------ Ogre Famous Race 	       ------------------->
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-                    <attribute id="Description" type="TranslatedString" handle="a7a4dffb-6c99-4571-b19a-f81bb34a704e"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="416a1d75-5643-4340-bcf5-424e0fb1d1ac"/>
+                    <attribute id="Description" type="TranslatedString" handle="a7a4dffb-6c99-4571-b19a-abcdef4a704e"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="416a1d75-5643-4340-bcf5-abcdefb1d1ac"/>
                     <attribute id="Name" type="FixedString" value="FamousOgre"/>
-                    <attribute id="ParentGuid" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5dfb50c"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="ff1c6613-fcc0-411f-8825-0eb32bbe5491"/>
+                    <attribute id="ParentGuid" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="ff1c6613-fcc0-411f-8825-abcdefbe5491"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value=""/>
-                    <attribute id="UUID" type="guid" value="a263d3f9-26d5-43ed-8d20-08968ea14aeb"/>
+                    <attribute id="UUID" type="guid" value="a263d3f9-26d5-43ed-8d20-abcdefa14aeb"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="146a89e7-802f-4926-bc21-4a41c2478502"/>
@@ -44,13 +44,13 @@
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
 					<!------------------ Ogre un-famous Race       ------------------->
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-                    <attribute id="Description" type="TranslatedString" handle="7c120a0b-a0c2-441e-a8a1-279c30cb0ebf"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="ba5aa7fb-ed4b-4d40-8698-b2e6533b7047"/>
+                    <attribute id="Description" type="TranslatedString" handle="7c120a0b-a0c2-441e-a8a1-abcdefcb0ebf"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ba5aa7fb-ed4b-4d40-8698-abcdef3b7047"/>
                     <attribute id="Name" type="FixedString" value="nonFamousOgre"/>
                     <attribute id="ParentGuid" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5dfb50c"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="80b2552d-a325-424a-9581-c45d22c2a4d0"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="80b2552d-a325-424a-9581-abcdefc2a4d0"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value=""/>
-                    <attribute id="UUID" type="guid" value="9d3a02d5-27e9-4847-9a80-9011e9689bfb"/>
+                    <attribute id="UUID" type="guid" value="9d3a02d5-27e9-4847-9a80-abcdef689bfb"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="146a89e7-802f-4926-bc21-4a41c2478502"/>

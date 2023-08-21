@@ -8,12 +8,13 @@
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
 					<!--<<>><<>><<>><<>> Ogre Famous Female	        <<>><<>><<>><<>>-->
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="bfcac889-bc0f-4c6b-a4d5-570bb707d294" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="bfcac889-bc0f-4c6b-a4d5-abcdef07d294" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
 					<attribute id="Icon" type="FixedString" value="4ac5b5d8-6e26-e59b-42e3-41ed51ad9481-EQP_Ogre_Club_(Icon_Ogre)" /> <!-- Buthir -->
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="e4709442-3cbc-4ee2-8c86-c8435a1b5650" />
+					<attribute id="MapKey" type="FixedString" value="e4709442-3cbc-4ee2-8c86-abcdef1b5650" />
 					<attribute id="Name" type="LSString" value="Ogre_Famous_Female_Player" />
 					<attribute id="ParentTemplateId" type="FixedString" value="531d498b-2ad0-4ebc-b272-e445faf3e38c" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />

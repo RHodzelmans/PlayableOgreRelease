@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="51d33cc7-8396-4b8d-8bcc-39a40e4fb0cf" version="1">Ogre</content>
-	<content contentuid="3803109b-de33-4e08-b6c9-5132a7eb8b6a" version="1">Ogres are a type of Giant found in Faerûn. Ogres are known for their strength and short tempers.</content>
-	<content contentuid="ba5aa7fb-ed4b-4d40-8698-b2e6533b7047" version="1">Chock and Priestess</content>
-	<content contentuid="416a1d75-5643-4340-bcf5-424e0fb1d1ac" version="1">Lump and Buthir</content>
-	<content contentuid="6879cf5c-f315-4a93-bed6-12fd8792ac71" version="1">Ogres have a bonus to Strength and Darkvision.</content>
-	<content contentuid="a7a4dffb-6c99-4571-b19a-f81bb34a704e" version="1">Famous Ogres have an additional bonus to Intelligence as well as Charisma.</content>
-	<content contentuid="7c120a0b-a0c2-441e-a8a1-279c30cb0ebf" version="1">Non Famous Ogres have a bonus to constitution.</content>
+	<content contentuid="51d33cc7-8396-4b8d-8bcc-abcdef4fb0cf" version="1">Ogre</content>
+	<content contentuid="3803109b-de33-4e08-b6c9-abcdefeb8b6a" version="1">Ogres are a type of Giant found in Faerûn. Ogres are known for their strength and short tempers.</content>
+	<content contentuid="ba5aa7fb-ed4b-4d40-8698-abcdef3b7047" version="1">Chock and Priestess</content>
+	<content contentuid="416a1d75-5643-4340-bcf5-abcdefb1d1ac" version="1">Lump and Buthir</content>
+	<content contentuid="6879cf5c-f315-4a93-bed6-abcdef92ac71" version="1">Ogres have a bonus to Strength and Darkvision.</content>
+	<content contentuid="a7a4dffb-6c99-4571-b19a-abcdef4a704e" version="1">Famous Ogres have an additional bonus to Intelligence as well as Charisma.</content>
+	<content contentuid="7c120a0b-a0c2-441e-a8a1-abcdefcb0ebf" version="1">Non Famous Ogres have a bonus to constitution.</content>
 </contentList>

@@ -6,26 +6,26 @@
 			<children>
 				<node id="GameObjects">
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-					<!--<<>><<>><<>><<>> Ogre non-Famous Female     <<>><<>><<>><<>>-->
+					<!--<<>><<>><<>><<>> Ogre non-Famous Male 	    <<>><<>><<>><<>>-->
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="bd42f421-6126-4261-b1bf-a168db5a6f83" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="d22e6d12-92c2-4662-8786-abcdefd85fa3" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
-					<attribute id="Icon" type="FixedString" value="370ffacc-6ed7-9221-6605-fb9770f08607-EQP_Ogre_Club_(Icon_Ogre)" />
+					<attribute id="Icon" type="FixedString" value="6ea37d77-3310-a586-2e37-33a78d0f72d4-EQP_Ogre_Greatclub_(Icon_Ogre)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="abfa9efc-3c53-407b-ab42-2cb281f7cb4a" />
-					<attribute id="Name" type="LSString" value="Ogre_nonFamous_Female_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="531d498b-2ad0-4ebc-b272-e445faf3e38c" />
+					<attribute id="MapKey" type="FixedString" value="ce621311-00b1-4b85-9c48-abcdefa86562" />
+					<attribute id="Name" type="LSString" value="Ogre_nonFamous_Male_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="145fc868-9353-4ef1-8a1d-419fe96533fb" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="Stats" type="FixedString" value="HeroOgreFemale" />
+					<attribute id="Stats" type="FixedString" value="HeroOgreMale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int32" value="1073741871" />
 					<children>
 						<node id="GameMaster" />
 						<node id="LocomotionParams" />
 						<node id="Tags">
-							<children>
+							<children>								
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
 								</node>													
