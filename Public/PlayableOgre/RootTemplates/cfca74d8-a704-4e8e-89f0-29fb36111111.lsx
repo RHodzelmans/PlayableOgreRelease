@@ -12,7 +12,7 @@
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
 					<attribute id="Icon" type="FixedString" value="6ea37d77-3310-a586-2e37-33a78d0f72d4-EQP_Ogre_Greatclub_(Icon_Ogre)" /> <!-- Icon in WLD_Main_A/Characters/_merged -->
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="ce621311-00b1-4b85-9c48-334f9ba86562" /> <!-- Filename - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
+					<attribute id="MapKey" type="FixedString" value="cfca74d8-a704-4e8e-89f0-29fb36111111" /> <!-- Filename - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
 					<attribute id="Name" type="LSString" value="BasicOgre_Player" />
 					<attribute id="ParentTemplateId" type="FixedString" value="cfef7d2e-39f1-41c3-8b76-29fb36111111" /> <!-- Male Ogres -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
