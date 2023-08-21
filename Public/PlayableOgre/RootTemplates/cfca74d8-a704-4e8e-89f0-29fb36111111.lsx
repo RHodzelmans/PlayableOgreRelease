@@ -14,7 +14,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="cfca74d8-a704-4e8e-89f0-29fb36111111" /> <!-- Filename - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
 					<attribute id="Name" type="LSString" value="BasicOgre_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="cfef7d2e-39f1-41c3-8b76-29fb36111111" /> <!-- Male Ogres -->
+					<attribute id="ParentTemplateId" type="FixedString" value="cfef7d2e-39f1-41c3-8b76-05d47b73fc16" /> <!-- Male Ogres -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroOgreMale" /> <!-- Stats\Generated\Data\_Essential -->
 					<attribute id="Type" type="FixedString" value="character" />
