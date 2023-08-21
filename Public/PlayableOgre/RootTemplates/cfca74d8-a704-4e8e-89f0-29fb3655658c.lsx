@@ -5,25 +5,26 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<!-- Famous Male Ogre -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d55333333" /> <!-- Lump \PlayableOgre\Public\PlayableOgre\Content\[PAK]_CharacterVisuals\_merged.lsx -->
+					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+					<!--<<>><<>><<>><<>> Ogre Famous Male 	        <<>><<>><<>><<>>-->
+					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="128747a8-e8f1-409a-b8a2-2b3b38e82852" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
 					<attribute id="Icon" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d558a41d8-EQP_Ogre_Club_(Icon_Ogre)" /> <!-- Lump -->
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="ce621311-00b1-4b85-9c48-334f9b333333" /> <!-- Filename - CharacterCreationPresets - CharacterCreationAppearanceVisuals-->
-					<attribute id="Name" type="LSString" value="BasicOgre_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="cfef7d2e-39f1-41c3-8b76-05d47b73fc16" /> <!-- Male Ogres -->
+					<attribute id="MapKey" type="FixedString" value="cfca74d8-a704-4e8e-89f0-29fb3655658c" />
+					<attribute id="Name" type="LSString" value="Ogre_Famous_Male_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="145fc868-9353-4ef1-8a1d-419fe96533fb" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="Stats" type="FixedString" value="HeroOgreMale" /> <!-- Stats\Generated\Data\_Essential -->
+					<attribute id="Stats" type="FixedString" value="HeroOgreMale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int32" value="1073741871" />
 					<children>
 						<node id="GameMaster" />
 						<node id="LocomotionParams" />
 						<node id="Tags">
-							<children>
+							<children>								
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
 								</node>													

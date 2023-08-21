@@ -4,13 +4,122 @@
 	<region id="CharacterVisualBank">
 		<node id="CharacterVisualBank">
 			<children>
-				<!-- Famous Ogre Male -->
+				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+				<!--<<>><<>><<>><<>><< Chock				  >><<>><<>><<>><<>>-->
+				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="701369d2-8996-53fd-40b2-a37b03145b0b" />
 					<attribute id="BodySetVisual" type="FixedString" value="1d8bb451-8eb8-b88f-fdba-98be05ce5890" />
-					<attribute id="ID" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d55333333" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
+					<attribute id="ID" type="FixedString" value="d22e6d12-92c2-4662-8786-197fffd85fa3" />
 					<attribute id="Name" type="LSString" value="Ogre_Male_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
+					<children>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="81a61023-8185-c4a1-e5c5-cd55822f59f3" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="69aaee3a-adb9-d635-60d3-612605e65a3c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Footwear" />
+							<attribute id="VisualResource" type="FixedString" value="bf124dff-ac32-c2c2-2894-bddf48ebf4dd" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Gloves" />
+							<attribute id="VisualResource" type="FixedString" value="800f8721-6aa5-ac22-fc17-7b82f6d5786b" />
+						</node>
+					</children>
+				</node>
+				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+				<!--<<>><<>><<>><<>><< Ogre Priestess		  >><<>><<>><<>><<>>-->
+				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="59fb63f0-0d38-3cff-e368-efd05ce1d3d4" />
+					<attribute id="BodySetVisual" type="FixedString" value="10385214-a9d5-28bc-2b88-11e65caa72a8" />
+					<attribute id="ID" type="FixedString" value="bd42f421-6126-4261-b1bf-a168db5a6f83" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Ogre_Female_Player" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets" />
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Dirt" />
+									<attribute id="Value" type="float" value="0.2" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Blood" />
+									<attribute id="Value" type="float" value="0.1" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Color" />
+									<attribute id="Value" type="fvec3" value="0.9191414 0.78979 0.6959565" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="DirtColor" />
+									<attribute id="Value" type="fvec3" value="0.1176471 0.06666667 0.04705882" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Blood_Color" />
+									<attribute id="Value" type="fvec3" value="0.1294118 0.007843138 0.003921569" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Hair_Color" />
+									<attribute id="Value" type="fvec3" value="0.1252573 0.1201576 0.1165102" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="6720984d-06fa-b7ce-66f7-62a3c090400e" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="5c5a4379-fbb3-a15b-4f34-862ec74ccadd" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="44d8b1c4-a1b4-cb01-b3f1-71e482a1a2a4" />
+						</node>
+					</children>
+				</node>
+				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+				<!--<<>><<>><<>><<>><< LUMP					  >><<>><<>><<>><<>>-->
+				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="701369d2-8996-53fd-40b2-a37b03145b0b" />
+					<attribute id="BodySetVisual" type="FixedString" value="1d8bb451-8eb8-b88f-fdba-98be05ce5890" />
+					<attribute id="ID" type="FixedString" value="128747a8-e8f1-409a-b8a2-2b3b38e82852" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Ogre_Famous_Male_Player" />
 					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
 					<children>
 						<node id="MaterialOverrides">
@@ -92,13 +201,15 @@
 						</node>
 					</children>
 				</node>
-				<!-- Famous Ogre Female -->
+				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+				<!--<<>><<>><<>><<>><< Buthir 				  >><<>><<>><<>><<>>-->
+				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="59fb63f0-0d38-3cff-e368-efd05ce1d3d4" />
 					<attribute id="BodySetVisual" type="FixedString" value="10385214-a9d5-28bc-2b88-11e65caa72a8" />
-					<attribute id="ID" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d55333333" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
+					<attribute id="ID" type="FixedString" value="bfcac889-bc0f-4c6b-a4d5-570bb707d294" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Ogre_Female_Player" />
+					<attribute id="Name" type="LSString" value="Ogre_Famous_Female_Player" />
 					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
 					<children>
 						<node id="MaterialOverrides">
@@ -123,109 +234,6 @@
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Hair_Color" />
 									<attribute id="Value" type="fvec3" value="0.08482802 0.0526549 0.02964367" />
-								</node>
-							</children>
-						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="6720984d-06fa-b7ce-66f7-62a3c090400e" />
-						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="5c5a4379-fbb3-a15b-4f34-862ec74ccadd" />
-						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Body" />
-							<attribute id="VisualResource" type="FixedString" value="44d8b1c4-a1b4-cb01-b3f1-71e482a1a2a4" />
-						</node>
-					</children>
-				</node>
-				<!-- Basic Ogre Male -->
-				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="701369d2-8996-53fd-40b2-a37b03145b0b" />
-					<attribute id="BodySetVisual" type="FixedString" value="1d8bb451-8eb8-b88f-fdba-98be05ce5890" />
-					<attribute id="ID" type="FixedString" value="6ea37d77-3310-a586-2e37-33a78d111111" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
-					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Ogre_Basic_Male_Player" />
-					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
-					<children>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="81a61023-8185-c4a1-e5c5-cd55822f59f3" />
-						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Body" />
-							<attribute id="VisualResource" type="FixedString" value="69aaee3a-adb9-d635-60d3-612605e65a3c" />
-						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Footwear" />
-							<attribute id="VisualResource" type="FixedString" value="bf124dff-ac32-c2c2-2894-bddf48ebf4dd" />
-						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Gloves" />
-							<attribute id="VisualResource" type="FixedString" value="800f8721-6aa5-ac22-fc17-7b82f6d5786b" />
-						</node>
-					</children>
-				</node>
-				<!-- Basic Ogre Female -->
-				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="59fb63f0-0d38-3cff-e368-efd05ce1d3d4" />
-					<attribute id="BodySetVisual" type="FixedString" value="10385214-a9d5-28bc-2b88-11e65caa72a8" />
-					<attribute id="ID" type="FixedString" value="4ac5b5d8-6e26-e59b-42e3-41ed51000000" /> <!-- \PlayableOgre\Public\PlayableOgre\RootTemplates\<ID>.lsx -->
-					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Ogre_Basic_Female_Player" />
-					<attribute id="_OriginalFileVersion_" type="int32" value="1073741843" />
-					<children>
-						<node id="MaterialOverrides">
-							<attribute id="MaterialResource" type="FixedString" value="" />
-							<children>
-								<node id="ColorPreset">
-									<attribute id="ForcePresetValues" type="bool" value="True" />
-									<attribute id="GroupName" type="FixedString" value="" />
-									<attribute id="MaterialPresetResource" type="FixedString" value="" />
-								</node>
-								<node id="MaterialPresets" />
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Dirt" />
-									<attribute id="Value" type="float" value="0.2" />
-								</node>
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Blood" />
-									<attribute id="Value" type="float" value="0.1" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color" />
-									<attribute id="Value" type="fvec3" value="0.9191414 0.78979 0.6959565" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="DirtColor" />
-									<attribute id="Value" type="fvec3" value="0.1176471 0.06666667 0.04705882" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Blood_Color" />
-									<attribute id="Value" type="fvec3" value="0.1294118 0.007843138 0.003921569" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Hair_Color" />
-									<attribute id="Value" type="fvec3" value="0.1252573 0.1201576 0.1165102" />
 								</node>
 							</children>
 						</node>
