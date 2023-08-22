@@ -63,10 +63,6 @@ add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Ogre_Greatclub"
 add equipmentgroup
-add equipment entry "WPN_Warhammer"
-add equipmentgroup
-add equipment entry "ARM_Shield_C"
-add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
