@@ -11,7 +11,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="bd42f421-6126-4261-b1bf-abcdef5a6f83" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
+					<attribute id="GeneratePortrait" type="LSString" value="Camera_Icon_Ogre" />
 					<attribute id="Icon" type="FixedString" value="370ffacc-6ed7-9221-6605-fb9770f08607-EQP_Ogre_Club_(Icon_Ogre)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="abfa9efc-3c53-407b-ab42-abcdeff7cb4a" />

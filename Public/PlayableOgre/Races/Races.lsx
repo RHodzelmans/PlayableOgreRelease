@@ -11,9 +11,9 @@
                     <attribute id="Description" type="TranslatedString" handle="3803109b-de33-4e08-b6c9-abcdefeb8b6a"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="51d33cc7-8396-4b8d-8bcc-abcdef4fb0cf"/>
                     <attribute id="Name" type="FixedString" value="Ogre"/>
-                    <attribute id="ParentGuid" type="guid" value="02e5c59e-80e7-4176-a289-1d08699583f5"/>
+                    <attribute id="ParentGuid" type="guid" value="40af3916-df35-4e6e-aa8b-276cfc2c4f6f"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="413b0749-12f7-494a-a4a3-abcdefd09e48"/>
-                    <attribute id="RaceSoundSwitch" type="FixedString" value=""/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Giant"/>
                     <attribute id="UUID" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
                     <children>
                         <node id="Tags">
@@ -31,7 +31,7 @@
                     <attribute id="Name" type="FixedString" value="FamousOgre"/>
                     <attribute id="ParentGuid" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="ff1c6613-fcc0-411f-8825-abcdefbe5491"/>
-                    <attribute id="RaceSoundSwitch" type="FixedString" value=""/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Giant"/>
                     <attribute id="UUID" type="guid" value="a263d3f9-26d5-43ed-8d20-abcdefa14aeb"/>
                     <children>
                         <node id="Tags">
@@ -49,7 +49,7 @@
                     <attribute id="Name" type="FixedString" value="nonFamousOgre"/>
                     <attribute id="ParentGuid" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5dfb50c"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="80b2552d-a325-424a-9581-abcdefc2a4d0"/>
-                    <attribute id="RaceSoundSwitch" type="FixedString" value=""/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Giant"/>
                     <attribute id="UUID" type="guid" value="9d3a02d5-27e9-4847-9a80-abcdef689bfb"/>
                     <children>
                         <node id="Tags">

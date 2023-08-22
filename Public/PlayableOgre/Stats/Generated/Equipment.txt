@@ -1,7 +1,42 @@
+new equipment "EQP_CC_Barbarian"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Minotaur_Greatclub"
+add equipmentgroup
+add equipment entry "WPN_Greataxe"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Shoes_Barbarian"
+add equipmentgroup
+add equipment entry "ARM_Barbarian"
+add equipmentgroup
+add equipment entry "WPN_Handaxe"
+add equipmentgroup
+add equipment entry "WPN_Handaxe"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
 new equipment "EQP_CC_Fighter"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Ogre_Club"
+add equipment entry "WPN_Ogre_Greatclub"
+add equipmentgroup
+add equipment entry "WPN_Longsword"
+add equipmentgroup
+add equipment entry "WPN_Shortbow"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
@@ -9,6 +44,51 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
-add equipment entry "ARM_Hide_Body"
+add equipment entry "ARM_ScaleMail_Body"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_CC_Paladin"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Ogre_Club"
+add equipmentgroup
+add equipment entry "WPN_Warhammer"
+add equipmentgroup
+add equipment entry "ARM_Shield_C"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_ScaleMail_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "WPN_Javelin"
+add equipmentgroup
+add equipment entry "WPN_Javelin"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Book_Paladin"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
