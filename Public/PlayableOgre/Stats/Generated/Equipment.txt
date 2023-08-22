@@ -32,7 +32,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_Fighter"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Ogre_Greatclub"
+add equipment entry "WPN_Ogre_Club"
 add equipmentgroup
 add equipment entry "WPN_Longsword"
 add equipmentgroup
@@ -61,7 +61,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_Paladin"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Ogre_Club"
+add equipment entry "WPN_Ogre_Greatclub"
 add equipmentgroup
 add equipment entry "WPN_Warhammer"
 add equipmentgroup
