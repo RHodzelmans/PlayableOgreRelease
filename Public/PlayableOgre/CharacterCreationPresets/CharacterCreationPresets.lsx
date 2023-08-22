@@ -10,9 +10,9 @@
 				<node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="CloseUpA" type="LSString" value="HUM_F_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="HUM_F_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="HUM_F_Camera_Overview_A"/>
+                    <attribute id="CloseUpA" type="LSString" value="OGRE_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="OGRE_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="OGRE_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
 					<attribute id="SubRaceUUID" type="guid" value="a263d3f9-26d5-43ed-8d20-abcdefa14aeb"/>
                     <attribute id="RootTemplate" type="guid" value="e4709442-3cbc-4ee2-8c86-abcdef1b5650"/>
@@ -25,9 +25,9 @@
 				<node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="CloseUpA" type="LSString" value="HUM_M_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="HUM_M_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="HUM_M_Camera_Overview_A"/>
+                    <attribute id="CloseUpA" type="LSString" value="OGRE_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="OGRE_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="OGRE_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
 					<attribute id="SubRaceUUID" type="guid" value="a263d3f9-26d5-43ed-8d20-abcdefa14aeb"/>
                     <attribute id="RootTemplate" type="guid" value="cfca74d8-a704-4e8e-89f0-abcdef55658c"/>
@@ -40,9 +40,9 @@
 				<node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="CloseUpA" type="LSString" value="HUM_F_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="HUM_F_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="HUM_F_Camera_Overview_A"/>
+                    <attribute id="CloseUpA" type="LSString" value="OGRE_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="OGRE_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="OGRE_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
 					<attribute id="SubRaceUUID" type="guid" value="9d3a02d5-27e9-4847-9a80-abcdef689bfb"/>
                     <attribute id="RootTemplate" type="guid" value="abfa9efc-3c53-407b-ab42-abcdeff7cb4a"/>
@@ -55,9 +55,9 @@
 				<node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="CloseUpA" type="LSString" value="HUM_M_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="HUM_M_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="HUM_M_Camera_Overview_A"/>
+                    <attribute id="CloseUpA" type="LSString" value="OGRE_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="OGRE_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="OGRE_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
 					<attribute id="SubRaceUUID" type="guid" value="9d3a02d5-27e9-4847-9a80-abcdef689bfb"/>
                     <attribute id="RootTemplate" type="guid" value="ce621311-00b1-4b85-9c48-abcdefa86562"/>

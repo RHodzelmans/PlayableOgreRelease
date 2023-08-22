@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DOFAperature" type="float" value="22" />
+					<attribute id="DOFFarOnly" type="float" value="1" />
+					<attribute id="DOFFarSharpDistance" type="float" value="12" />
+					<attribute id="DOFFocalDistance" type="float" value="5" />
+					<attribute id="DOFNearOnly" type="float" value="0" />
+					<attribute id="DOFNearSharpDistance" type="float" value="0" />
+					<attribute id="FOV" type="float" value="18" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Lerp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SYS_CC_I" />
+					<attribute id="MapKey" type="FixedString" value="5eb1e66e-d773-4093-ab8c-25c86379a88f" />
+					<attribute id="Name" type="LSString" value="OGRE_Camera_Closeup_A" />
+					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
+					<attribute id="Speed" type="float" value="2" />
+					<attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="UseDOF" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_CC_I" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="81bcca03-8e17-e967-61c1-a6aed88685cb" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<!-- first value is left/right (lower is right), second value is up/down (higher is up), third value is forward/backward -->
+							<attribute id="Position" type="fvec3" value="7.0 4.2 114.0" />
+							<attribute id="RotationQuat" type="fvec4" value="-0.03712505 0.9236139 0.0444284 0.3789263" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DOFAperature" type="float" value="15" />
+					<attribute id="DOFFarOnly" type="float" value="1" />
+					<attribute id="DOFFarSharpDistance" type="float" value="4" />
+					<attribute id="DOFFocalDistance" type="float" value="1" />
+					<attribute id="DOFNearOnly" type="float" value="0" />
+					<attribute id="DOFNearSharpDistance" type="float" value="3" />
+					<attribute id="FOV" type="float" value="18" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Lerp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SYS_CC_I" />
+					<attribute id="MapKey" type="FixedString" value="bef1b943-e055-4b1e-9c29-d35b4b439b56" />
+					<attribute id="Name" type="LSString" value="OGRE_Camera_Closeup_B" />
+					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
+					<attribute id="Speed" type="float" value="2" />
+					<attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="UseDOF" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_CC_I" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="81bcca03-8e17-e967-61c1-a6aed88685cb" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<!-- first value is left/right (lower is right), second value is up/down (higher is up), third value is forward/backward -->
+							<attribute id="Position" type="fvec3" value="7.0 4.2 114.0" />
+							<attribute id="RotationQuat" type="fvec4" value="0.007677415 0.9134913 0.005701737 0.406746" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DOFAperature" type="float" value="10" />
+					<attribute id="DOFFarOnly" type="float" value="1" />
+					<attribute id="DOFFarSharpDistance" type="float" value="2" />
+					<attribute id="DOFFocalDistance" type="float" value="4" />
+					<attribute id="DOFNearOnly" type="float" value="0" />
+					<attribute id="DOFNearSharpDistance" type="float" value="1" />
+					<attribute id="FOV" type="float" value="40" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Lerp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SYS_CC_I" />
+					<attribute id="MapKey" type="FixedString" value="5b9b1e04-4e24-40d9-bff0-8d60d3af4b66" />
+					<attribute id="Name" type="LSString" value="OGRE_Camera_Overview_A" />
+					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
+					<attribute id="Speed" type="float" value="2" />
+					<attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="UseDOF" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_CC_I" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="81bcca03-8e17-e967-61c1-a6aed88685cb" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<!-- first value is left/right (lower is right), second value is up/down (lower is up), third value is forward/backward -->
+							<attribute id="Position" type="fvec3" value="4.429655 2.938405 113.5353" />
+							<attribute id="RotationQuat" type="fvec4" value="0.008659886 0.9380676 0.009896265 0.3462027" />
+							<attribute id="Scale" type="float" value="1.000001" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
