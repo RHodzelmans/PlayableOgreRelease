@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+					<attribute id="MapKey" type="FixedString" value="b416d9e8-cc37-4f07-8825-69ef302744a4" />
+					<attribute id="Name" type="LSString" value="Background_Ogre" />
+					<attribute id="TemplateName" type="FixedString" value="ddc4d97a-2c2f-4665-96e7-9ce14fe80844" />
+					<attribute id="Type" type="FixedString" value="scenery" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209029" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="07649e18-72fc-fba7-f13c-5c0df83e324c" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-16 1.75 35" />
+							<attribute id="RotationQuat" type="fvec4" value="-0.7071069 -9.076754E-09 1.317089E-09 0.7071067" />
+							<attribute id="Scale" type="float" value="0.8" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

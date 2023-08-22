@@ -11,7 +11,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="128747a8-e8f1-409a-b8a2-abcdefe82852" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="GeneratePortrait" type="LSString" value="Camera_Icon_Ogre" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
 					<attribute id="Icon" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d558a41d8-EQP_Ogre_Club_(Icon_Ogre)" /> <!-- Lump -->
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="cfca74d8-a704-4e8e-89f0-abcdef55658c" />
