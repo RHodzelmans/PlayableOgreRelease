@@ -17,8 +17,7 @@
                     <attribute id="UUID" type="guid" value="010abdd6-1ed3-41d0-8b95-abcdefdfb50c"/>
                     <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="146a89e7-802f-4926-bc21-4a41c2478502"/>
-                            <attribute id="Object" type="guid" value="33c625aa-6982-4c27-904f-e47029a9b140"/>
+                            <attribute id="Object" type="guid" value="cb53ec1e-af17-4dc2-bb28-2ac56d7eba96"/>
                         </node>
                     </children>
                 </node>
@@ -35,8 +34,7 @@
                     <attribute id="UUID" type="guid" value="a263d3f9-26d5-43ed-8d20-abcdefa14aeb"/>
                     <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="146a89e7-802f-4926-bc21-4a41c2478502"/>
-                            <attribute id="Object" type="guid" value="33c625aa-6982-4c27-904f-e47029a9b140"/>
+                            <attribute id="Object" type="guid" value="cb53ec1e-af17-4dc2-bb28-2ac56d7eba96"/>
                         </node>
                     </children>
                 </node>
@@ -53,8 +51,7 @@
                     <attribute id="UUID" type="guid" value="9d3a02d5-27e9-4847-9a80-abcdef689bfb"/>
                     <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="146a89e7-802f-4926-bc21-4a41c2478502"/>
-                            <attribute id="Object" type="guid" value="33c625aa-6982-4c27-904f-e47029a9b140"/>
+                            <attribute id="Object" type="guid" value="cb53ec1e-af17-4dc2-bb28-2ac56d7eba96"/>
                         </node>
                     </children>
                 </node>
