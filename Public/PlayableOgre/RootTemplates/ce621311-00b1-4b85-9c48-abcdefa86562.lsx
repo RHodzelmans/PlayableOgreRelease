@@ -16,7 +16,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="ce621311-00b1-4b85-9c48-abcdefa86562" />
 					<attribute id="Name" type="LSString" value="Ogre_nonFamous_Male_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="145fc868-9353-4ef1-8a1d-419fe96533fb" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e6b6f2dd-cc9c-43fe-8d9a-32a8fa2f5540" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroOgreMale" />
 					<attribute id="Type" type="FixedString" value="character" />

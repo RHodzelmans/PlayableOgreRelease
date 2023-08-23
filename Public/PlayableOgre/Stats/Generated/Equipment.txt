@@ -1,9 +1,9 @@
 new equipment "EQP_CC_Barbarian"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Minotaur_Greatclub"
+add equipment entry "WPN_Giant_GreatAxe"
 add equipmentgroup
-add equipment entry "WPN_Greataxe"
+add equipment entry "WPN_Minotaur_Greatclub"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup

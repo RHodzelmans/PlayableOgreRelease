@@ -16,7 +16,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="abfa9efc-3c53-407b-ab42-abcdeff7cb4a" />
 					<attribute id="Name" type="LSString" value="Ogre_nonFamous_Female_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="531d498b-2ad0-4ebc-b272-e445faf3e38c" />
+					<attribute id="ParentTemplateId" type="FixedString" value="658c5f80-33ea-4f8d-bded-8ef6ac2ed511" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroOgreFemale" />
 					<attribute id="Type" type="FixedString" value="character" />
