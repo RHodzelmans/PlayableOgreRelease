@@ -11,7 +11,7 @@
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greataxe_A_0" />
 					<attribute id="MapKey" type="FixedString" value="20bd2850-f6b3-4f13-bf96-0bcdefdf0de4" /> Same UUID as in Weapon.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="WPN_Giant_GreatAxe" />
-					<attribute id="ParentTemplateId" type="FixedString" value="7c749dd0-f750-4d6d-8ea0-5401b3c6b13d" /> afbfaee7-e2cd-48e7-8c46-d2377c7320e3 
+					<attribute id="ParentTemplateId" type="FixedString" value="7c749dd0-f750-4d6d-8ea0-5401b3c6b13d" /> GreatAxe: e99fd01c-2c7a-459e-8df0-3d7349239430 
 					<attribute id="VisualTemplate" type="FixedString" value="6624c3fc-0fa8-411d-bedf-0bcdefdcbf9d" /> ..\PlayableOgre\Public\PlayableOgre\Content\Assets\Weapons\[PAK]_Weapons_1\_merged.lsx
 					<attribute id="Stats" type="FixedString" value="WPN_Minotaur_Greatclub" />
 					<attribute id="Type" type="FixedString" value="item" />
