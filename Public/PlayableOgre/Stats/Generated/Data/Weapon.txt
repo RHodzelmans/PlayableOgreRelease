@@ -1,7 +1,7 @@
 new entry "WPN_Giant_GreatAxe"
 type "Weapon"
 using "WPN_Greataxe"
-data "RootTemplate" "20bd2850-f6b3-4f13-bf96-abcdefdf0de4"
+data "RootTemplate" "20bd2850-f6b3-4f13-bf96-0bcdefdf0de4"
 data "Damage" "2d12"
 data "Weight" "8.5"
 data "Boosts" ""
