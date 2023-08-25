@@ -8,10 +8,10 @@
 				<!------------------ Ogre Race stats     ------------------->
 				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Ability(Strength, 2);ActionResource(Movement,7.5,0)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Ogre"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Darkvision"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -22,7 +22,7 @@
 				<!------------------ Ogre Basic Race      ------------------->
 				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Ability(Constitution, 1)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="nonFamousOgre"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -36,7 +36,7 @@
 				<!------------------ Ogre Famous Race      ------------------->
 				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Ability(Intelligence, 1);Ability(Charisma, 1)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="famousOgre"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
