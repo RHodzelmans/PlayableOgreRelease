@@ -5,33 +5,31 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="hf270fdb7g8cf0g4c62gbf15g6ef656909c8b" version="1" /> Points to Localization xml file.
-					<attribute id="DisplayName" type="TranslatedString" handle="h0489096cgc107g439fg9006g07b251700740" version="1" /> Points to Localization xml file.
+					<attribute id="Description" type="TranslatedString" handle="ha0885d7cgbeb7g4c3fgaf63g84df8ea0f05a" version="1" /> Points to Localization xml file.
+					<attribute id="DisplayName" type="TranslatedString" handle="h0f24a0dag08bbg49fcga71egedbe3f64b331" version="1" /> Points to Localization xml file.
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greataxe_A_0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Battleaxe_A_0" />
 					<attribute id="MapKey" type="FixedString" value="20bd2850-f6b3-4f13-bf96-0bcdefdf0de4" /> Same UUID as in Weapon.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="WPN_Giant_GreatAxe" />
-					<attribute id="ParentTemplateId" type="FixedString" value="7c749dd0-f750-4d6d-8ea0-5401b3c6b13d" /> GreatAxe: e99fd01c-2c7a-459e-8df0-3d7349239430 
+					<attribute id="ParentTemplateId" type="FixedString" value="7c749dd0-f750-4d6d-8ea0-5401b3c6b13d" /> 
 					<attribute id="VisualTemplate" type="FixedString" value="6624c3fc-0fa8-411d-bedf-0bcdefdcbf9d" /> ..\PlayableOgre\Public\PlayableOgre\Content\Assets\Weapons\[PAK]_Weapons_1\_merged.lsx
 					<attribute id="Stats" type="FixedString" value="WPN_Minotaur_Greatclub" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
 				</node>
-				<!--
 				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="h22657a70g8789g44ebg8217g7eefd911743e" version="1" /> Points to Localization xml file.
 					<attribute id="DisplayName" type="TranslatedString" handle="h69af9335g21c2g47cagb080gebba7b3177c8" version="1" /> Points to Localization xml file.
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Mace_A_0" />
-					<attribute id="MapKey" type="FixedString" value="20bd2850-f6b3-4f13-bf96-abcdefdf0de4" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="MapKey" type="FixedString" value="20bd2850-f6b3-4f13-1234-abcdefdf0de4" /> Same UUID as in Weapon.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="WPN_Giant_Mace" />
 					<attribute id="ParentTemplateId" type="FixedString" value="7c749dd0-f750-4d6d-8ea0-5401b3c6b13d" /> 
-					<attribute id="VisualTemplate" type="FixedString" value="6624c3fc-0fa8-411d-bedf-abcdefdcbf9d" /> ..\PlayableOgre\Public\PlayableOgre\Content\Assets\Weapons\[PAK]_Weapons_1\_merged.lsx
+					<attribute id="VisualTemplate" type="FixedString" value="554c64e2-8ca3-6aee-e9c2-abcdef26fb62" /> ..\PlayableOgre\Public\PlayableOgre\Content\Assets\Weapons\[PAK]_Weapons_1\_merged.lsx
 					<attribute id="Stats" type="FixedString" value="WPN_Minotaur_Greatclub" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791061" />
 				</node>
-				-->
 			</children>
 		</node>
 	</region>

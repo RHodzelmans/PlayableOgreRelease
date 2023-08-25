@@ -1,7 +1,7 @@
 new equipment "EQP_CC_Barbarian"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Giant_GreatAxe"
+add equipment entry "WPN_Giant_Battleaxe"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
@@ -30,7 +30,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_Fighter"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Giant_GreatAxe"
+add equipment entry "WPN_Giant_Mace"
 add equipmentgroup
 add equipment entry "WPN_Longsword"
 add equipmentgroup

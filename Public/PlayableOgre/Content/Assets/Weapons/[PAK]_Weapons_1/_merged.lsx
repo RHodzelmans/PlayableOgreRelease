@@ -8,9 +8,9 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.1683743 0.0344334 0.5443603" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.2299671 -0.02496931 -0.9442585" />
-					<attribute id="Center" type="fvec3" value="-0.0307964 0.004732046 -0.1999491" /> 0.1019204 0.1948437 -0.6665345
+					<attribute id="BoundsMax" type="fvec3" value="0.07160503 0.08232126 0.2182689" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.07318676 -0.06374745 -0.5705505" />
+					<attribute id="Center" type="fvec3" value="-0.0007908642 0.009286907 -0.1761408" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
@@ -18,58 +18,57 @@
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="4" />
-					<attribute id="Name" type="LSString" value="WPN_Giant_Greataxe" />
+					<attribute id="Name" type="LSString" value="WPN_GIANT_Mace" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
-					<attribute id="Radius" type="float" value="1.915474" /> 0.7710692
+					<attribute id="Radius" type="float" value="0.4075956" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Weapons/Resources/WPN_GIANT_Greataxe_A_0.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Weapons/Resources/WPN_GIANT_Mace_A_1.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Weapons/Resources/WPN_GIANT_Greataxe_A_0.Dummy_WPN_Greataxe_A_0.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Weapons/Resources/WPN_GIANT_Mace_A_1.Dummy_WPN_GIANT_Mace_A_1.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241409" />
 					<children>
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f7ec8c00-aa48-4b16-be50-d1607820808a" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Greataxe_A_0.WPN_GIANT_Greataxe_A_0_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Mace_A_1.WPN_GIANT_Mace_A_1_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="f7ec8c00-aa48-4b16-be50-d1607820808a" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Greataxe_A_0.WPN_GIANT_Greataxe_A_0_Mesh_LOD1.1" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Mace_A_1.WPN_GIANT_Mace_A_1_Mesh_LOD1.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
 							<attribute id="MaterialID" type="FixedString" value="f7ec8c00-aa48-4b16-be50-d1607820808a" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Greataxe_A_0.WPN_GIANT_Greataxe_A_0_Mesh_LOD2.2" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Mace_A_1.WPN_GIANT_Mace_A_0_Mesh_LOD2.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
 							<attribute id="MaterialID" type="FixedString" value="f7ec8c00-aa48-4b16-be50-d1607820808a" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Greataxe_A_0.WPN_GIANT_Greataxe_A_0_Mesh_LOD3.3" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Mace_A_1.WPN_GIANT_Mace_A_1_Mesh_LOD3.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
 							<attribute id="MaterialID" type="FixedString" value="f7ec8c00-aa48-4b16-be50-d1607820808a" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Greataxe_A_0.WPN_GIANT_Greataxe_A_0_Mesh_LOD4.4" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_HUM_Mace_A_1.WPN_HUM_Mace_A_1_Mesh_LOD4.4" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 					</children>
 				</node>
-					<!--
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -77,17 +76,14 @@
 					<attribute id="BoundsMax" type="fvec3" value="0.07160503 0.08232126 0.2182689" />
 					<attribute id="BoundsMin" type="fvec3" value="-0.07318676 -0.06374745 -0.5705505" />
 					<attribute id="Center" type="fvec3" value="-0.0007908642 0.009286907 -0.1761408" />
-					<attribute id="BoundsMax" type="fvec3" value="0.3493828 0.5455205 1.200235" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.145542 -0.155833 -2.533304" />
-					<attribute id="Center" type="fvec3" value="0.1019204 0.1948437 -0.6665345" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="6624c3fc-0fa8-411d-bedf-abcdefdcbf9d" />
+					<attribute id="ID" type="FixedString" value="554c64e2-8ca3-6aee-e9c2-abcdef26fb62" />
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="4" />
-					<attribute id="Name" type="LSString" value="WPN_Giant_Mace" />
+					<attribute id="Name" type="LSString" value="WPN_GIANT_Mace" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="Radius" type="float" value="0.4075956" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -97,35 +93,35 @@
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Weapons/Resources/WPN_GIANT_Mace_A_0.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Weapons/Resources/WPN_GIANT_Mace_A_0.Dummy_WPN_HUM_Mace_A_0.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Weapons/Resources/WPN_GIANT_Mace_A_0.Dummy_WPN_GIANT_Mace_A_0.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241409" />
 					<children>
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="899b50af-e912-1f28-3598-37d7fbc4380e" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_HUM_Mace_A_0.WPN_HUM_Mace_A_0_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Mace_A_0.WPN_GIANT_Mace_A_0_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="899b50af-e912-1f28-3598-37d7fbc4380e" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_HUM_Mace_A_0.WPN_HUM_Mace_A_0_Mesh_LOD1.1" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Mace_A_0.WPN_GIANT_Mace_A_0_Mesh_LOD1.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
 							<attribute id="MaterialID" type="FixedString" value="899b50af-e912-1f28-3598-37d7fbc4380e" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_HUM_Mace_A_0.WPN_HUM_Mace_A_0_Mesh_LOD2.2" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Mace_A_0.WPN_GIANT_Mace_A_0_Mesh_LOD2.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
 							<attribute id="MaterialID" type="FixedString" value="899b50af-e912-1f28-3598-37d7fbc4380e" />
-							<attribute id="ObjectID" type="FixedString" value="WPN_HUM_Mace_A_0.WPN_HUM_Mace_A_0_Mesh_LOD3.3" />
+							<attribute id="ObjectID" type="FixedString" value="WPN_GIANT_Mace_A_0.WPN_GIANT_Mace_A_0_Mesh_LOD3.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -138,8 +134,13 @@
 						</node>
 					</children>
 				</node>
-					-->
 			</children>
 		</node>
 	</region>
 </save>
+
+<!--
+					<attribute id="BoundsMax" type="fvec3" value="0.1683743 0.0344334 0.5443603" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.2299671 -0.02496931 -0.9442585" />
+					<attribute id="Center" type="fvec3" value="-0.0307964 0.004732046 -0.1999491" /> 0.1019204 0.1948437 -0.6665345
+-->
