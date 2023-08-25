@@ -8,10 +8,10 @@
 				<!------------------ Ogre Race stats     ------------------->
 				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,4);Ability(Dexterity,-1);Ability(Constitution,3);Ability(Intelligence,-3);Ability(Wisdom,-2);Ability(Charisma,-2);ActionResource(Movement,9,0)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Ogre"/>
-                    <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;ProficiencyBonus(Perception)"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value=""/>

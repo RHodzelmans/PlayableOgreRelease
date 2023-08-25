@@ -9,7 +9,7 @@ data "BoostsOnEquipMainHand" ""
 
 new entry "WPN_Giant_Morningstar"
 type "Weapon"
-using "WPN_Mace_1"
+using "WPN_Morningstar_1"
 data "RootTemplate" "20bd2850-f6b3-4f13-1234-0bcdefdf0de4"
 data "Damage" "2d12"
 data "Weight" "6.5"
