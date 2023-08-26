@@ -6,19 +6,20 @@
 			<children>
 				<node id="GameObjects">
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-					<!--<<>><<>><<>><<>> Ogre Famous Female	        <<>><<>><<>><<>>-->
+					<!--<<>><<>><<>><<>> Ogre non-Famous Male 	    <<>><<>><<>><<>>-->
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="bfcac889-bc0f-4c6b-a4d5-abcdef07d294" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="d22e6d12-92c2-4662-8786-abcdefd85fa3" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
-					<attribute id="Icon" type="FixedString" value="4ac5b5d8-6e26-e59b-42e3-41ed51ad9481-EQP_Ogre_Club_(Icon_Ogre)" /> <!-- Buthir -->
+					<attribute id="Icon" type="FixedString" value="6ea37d77-3310-a586-2e37-33a78d0f72d4-EQP_Ogre_Greatclub_(Icon_Ogre)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="e4709442-3cbc-4ee2-8c86-abcdef1b5650" />
-					<attribute id="Name" type="LSString" value="Ogre_Famous_Female_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="512426f2-01fd-405e-9148-8b9e6b10e10c" />
+					<attribute id="MapKey" type="FixedString" value="ce621311-00b1-4b85-9c48-abcdefa86562" />
+					<attribute id="Name" type="LSString" value="Ogre_nonFamous_Male_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e6b6f2dd-cc9c-43fe-8d9a-32a8fa2f5540" />
+					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="Stats" type="FixedString" value="HeroOgreFemale" />
+					<attribute id="Stats" type="FixedString" value="HeroOgreMale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int32" value="1073741871" />
 					<children>

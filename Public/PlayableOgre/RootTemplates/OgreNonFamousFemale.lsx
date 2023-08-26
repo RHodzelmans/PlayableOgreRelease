@@ -6,26 +6,27 @@
 			<children>
 				<node id="GameObjects">
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-					<!--<<>><<>><<>><<>> Ogre Famous Male 	        <<>><<>><<>><<>>-->
+					<!--<<>><<>><<>><<>> Ogre non-Famous Female     <<>><<>><<>><<>>-->
 					<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="128747a8-e8f1-409a-b8a2-abcdefe82852" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="bd42f421-6126-4261-b1bf-abcdef5a6f83" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
-					<attribute id="Icon" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d558a41d8-EQP_Ogre_Club_(Icon_Ogre)" /> <!-- Lump -->
+					<attribute id="Icon" type="FixedString" value="370ffacc-6ed7-9221-6605-fb9770f08607-EQP_Ogre_Club_(Icon_Ogre)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="cfca74d8-a704-4e8e-89f0-abcdef55658c" />
-					<attribute id="Name" type="LSString" value="Ogre_Famous_Male_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="bc9fb0ff-18f1-4622-8260-d872e21a5b75" />
+					<attribute id="MapKey" type="FixedString" value="abfa9efc-3c53-407b-ab42-abcdeff7cb4a" />
+					<attribute id="Name" type="LSString" value="Ogre_nonFamous_Female_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="658c5f80-33ea-4f8d-bded-8ef6ac2ed511" />
+					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="Stats" type="FixedString" value="HeroOgreMale" />
+					<attribute id="Stats" type="FixedString" value="HeroOgreFemale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int32" value="1073741871" />
 					<children>
 						<node id="GameMaster" />
 						<node id="LocomotionParams" />
 						<node id="Tags">
-							<children>								
+							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
 								</node>													

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="329"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Ogre Slam"/>
+                    <attribute id="Spells" type="LSString" value="Target_Slam_Ogre"/>
+                    <attribute id="UUID" type="guid" value="7bf822c8-25b3-4ed4-b4b4-e1dd3fe9a3d7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Ogre Throwing a Javelin"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Javelin_Ogre"/>
+                    <attribute id="UUID" type="guid" value="6a9bb3c2-f51b-452d-85e7-7ee7fb45ba98"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Ogre Shoving"/>
+                    <attribute id="Spells" type="LSString" value="Target_Shove_Ogre"/>
+                    <attribute id="UUID" type="guid" value="4818788b-9415-442d-8d66-e6b3c95cbc93"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

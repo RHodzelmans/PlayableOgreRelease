@@ -13,9 +13,9 @@ add equipment entry "ARM_Shoes_Barbarian"
 add equipmentgroup
 add equipment entry "ARM_Barbarian"
 add equipmentgroup
-add equipment entry "WPN_Handaxe"
+add equipment entry "WPN_Javelin"
 add equipmentgroup
-add equipment entry "WPN_Handaxe"
+add equipment entry "WPN_Javelin"
 add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
@@ -32,9 +32,9 @@ add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Giant_Mace"
 add equipmentgroup
-add equipment entry "WPN_Longsword"
+add equipment entry "WPN_Javelin"
 add equipmentgroup
-add equipment entry "WPN_Shortbow"
+add equipment entry "WPN_Javelin"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
