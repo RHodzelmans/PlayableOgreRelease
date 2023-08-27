@@ -14,12 +14,13 @@
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
 					<attribute id="Icon" type="FixedString" value="30c80359-7a5c-11e6-c1ed-401d558a41d8-EQP_Ogre_Club_(Icon_Ogre)" /> <!-- Lump -->
 					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="1" />
 					<attribute id="MapKey" type="FixedString" value="cfca74d8-a704-4e8e-89f0-abcdef55658c" />
 					<attribute id="Name" type="LSString" value="Ogre_Famous_Male_Player" />
 					<attribute id="ParentTemplateId" type="FixedString" value="bc9fb0ff-18f1-4622-8260-d872e21a5b75" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="Stats" type="FixedString" value="HeroOgreMale" />
+					<attribute id="Stats" type="FixedString" value="HeroFamousOgreMale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int32" value="1073741871" />
 					<children>

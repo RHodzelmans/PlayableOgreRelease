@@ -8,13 +8,7 @@
 				<!------------------ Ogre Race stats     ------------------->
 				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Ability(Strength,2);ActionResource(Movement,9,0)"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="Ogre"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Darkvision;ProficiencyBonus(Perception)"/>
-                    <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(7bf822c8-25b3-4ed4-b4b4-e1dd3fe9a3d7);AddSpells(6a9bb3c2-f51b-452d-85e7-7ee7fb45ba98);AddSpells(4818788b-9415-442d-8d66-e6b3c95cbc93)"/>
+                    <attribute id="Name" type="LSString" value="HeroOgre"/>
                     <attribute id="TableUUID" type="guid" value="413b0749-12f7-494a-a4a3-abcdefd09e48"/>
                     <attribute id="UUID" type="guid" value="4557ea74-7d63-4621-9198-abcdef5e5d02"/>
                 </node>
@@ -22,13 +16,12 @@
 				<!------------------ Ogre Basic Race      ------------------->
 				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Ability(Constitution,1)"/>
+					<attribute id="Boosts" type="LSString" value="Ability(Strength,2);Ability(Dexterity,-1);Ability(Constitution,2);Ability(Intelligence,-3);Ability(Wisdom,-2);Ability(Charisma,-2);ActionResource(Movement,9,0)"/>character.txt seems to do nothing
                     <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="nonFamousOgre"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Name" type="LSString" value="HeroOgreMale"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+					<attribute id="PassivesAdded" type="LSString" value="OgreCurse;AttackOfOpportunity;Darkvision;DarknessRules"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(7bf822c8-25b3-4ed4-b4b4-e1dd3fe9a3d7);AddSpells(6a9bb3c2-f51b-452d-85e7-7ee7fb45ba98);AddSpells(4818788b-9415-442d-8d66-e6b3c95cbc93)"/>
                     <attribute id="TableUUID" type="guid" value="ff1c6613-fcc0-411f-8825-abcdefbe5491"/>
                     <attribute id="UUID" type="guid" value="4a572189-810e-4af6-8035-abcdef2f4fcf"/>
                 </node>
@@ -36,13 +29,12 @@
 				<!------------------ Ogre Famous Race      ------------------->
 				<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Ability(Charisma,1)"/>
+					<attribute id="Boosts" type="LSString" value="Ability(Strength,2);Ability(Dexterity,-1);Ability(Constitution,2);Ability(Intelligence,-3);Ability(Wisdom,-2);Ability(Charisma,-2);ActionResource(Movement,9,0)"/>character.txt seems to do nothing
                     <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="famousOgre"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Name" type="LSString" value="HeroFamousOgreMale"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+					<attribute id="PassivesAdded" type="LSString" value="OgreCurse;AttackOfOpportunity;Darkvision;DarknessRules"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(7bf822c8-25b3-4ed4-b4b4-e1dd3fe9a3d7);AddSpells(6a9bb3c2-f51b-452d-85e7-7ee7fb45ba98);AddSpells(4818788b-9415-442d-8d66-e6b3c95cbc93)"/>
                     <attribute id="TableUUID" type="guid" value="80b2552d-a325-424a-9581-abcdefc2a4d0"/>
                     <attribute id="UUID" type="guid" value="526226b2-c9b2-4428-95a4-abcdefe1d533"/>
                 </node>
